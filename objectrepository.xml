@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<login_Detail>
+
+	<useradmin>html/body/div[2]/table/tbody/tr/th/a</useradmin>
+	<userid>uname</userid>
+	<password>pass</password>
+	<submit>html/body/div/div[2]/form/table/tbody/tr[3]/td[2]/input</submit>
+	
+</login_Detail>
